@@ -1,0 +1,13 @@
+<app>
+ <id>gj8dl19d0</id>
+ <name>OABPOC</name>
+ <provider>Oyak Anker</provider>
+ <description>An app for POC testing</description>
+ <uninstallUrl></uninstallUrl>
+ <installUrl></installUrl>
+ <extensionpoint>
+ <location>CLIENT_VIEW</location>
+ <label>Oab Poc</label>
+ <url>https://www.oyakankerbank.de/de/</url>
+ </extensionpoint>
+</app>
