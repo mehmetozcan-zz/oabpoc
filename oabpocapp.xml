@@ -8,6 +8,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>Oab Poc</label>
- <url>http://127.0.0.1</url>
+ <url>https://innovance.com.tr</url>
  </extensionpoint>
 </app>
