@@ -1,0 +1,11 @@
+<app>
+     <id>InnoCH0001</id>
+     <name>Currency Holiday</name>
+     <provider>Innovance</provider>
+     <description>to definition currency holidays</description>
+     <extensionpoint>
+          <location>BRANCH_VIEW</location>
+          <label>Currency Holiday</label>
+          <url>https://currencyholidayswebmambu.azurewebsites.net/</url>
+     </extensionpoint>
+</app>
