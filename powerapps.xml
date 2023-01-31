@@ -1,12 +1,12 @@
 <app>
  <id>gj8dl19d0</id>
- <name>Credit Application</name>
+ <name>DWH Power Apps</name>
  <provider>Oyak Anker</provider>
- <description>An app for POC testing</description>
+ <description>An app for Power Apps testing</description>
  <uninstallUrl></uninstallUrl>
  <installUrl></installUrl>
  <extensionpoint>
- <location>CLIENT_VIEW</location>
+ <location>EXTENSION_MENU</location>
  <label>Power Apps</label>
  <url>https://apps.powerapps.com/play/e/default-0948f826-c921-4f5f-ae92-6109062c8a04/a/7b381db0-5e47-4201-9e7b-103fc1a8e761?tenantId=0948f826-c921-4f5f-ae92-6109062c8a04</url>
  </extensionpoint>
